@@ -1,4 +1,4 @@
-Attribute VB_Name = "Module1"
+Attribute VB_Name = "Module1" 
 Sub StockInfo()
  For Each ws In Worksheets
     
@@ -146,3 +146,4 @@ Next i
             
     Next ws
 End Sub
+
